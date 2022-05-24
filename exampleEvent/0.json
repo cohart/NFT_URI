@@ -1,0 +1,27 @@
+{
+    "description": "Attendee Ticket",
+    "external_url": "https://eason.best",
+    "image": "https://easonc13.github.io/NFT_URI/exampleEvent/png/attendee.png",
+    "name": "Example Event Ticket for Demo Event",
+    "attributes": [
+      {
+        "trait_type": "Ticket Type",
+        "value": "Attendee"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Release Date",
+        "value": 1546360800
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Event Date",
+        "value": 1655254800
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 10,
+        "max_value": 100
+      }
+    ]
+  }

@@ -1,0 +1,35 @@
+{
+    "description": "MVP Ticket",
+    "external_url": "https://eason.best",
+    "image": "https://easonc13.github.io/NFT_URI/exampleEvent/png/MVP.png",
+    "name": "Example Event Ticket for Demo Event",
+    "attributes": [
+      {
+        "trait_type": "Ticket Type",
+        "value": "MVP"
+      },
+      {
+        "trait_type": "Permission",
+        "value": "VIP Room"
+      },
+      {
+        "trait_type": "Permission",
+        "value": "Round Table Meetup"
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Release Date",
+        "value": 1546360800
+      },
+      {
+        "display_type": "date",
+        "trait_type": "Event Date",
+        "value": 1655254800
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 80,
+        "max_value": 100
+      }
+    ]
+  }

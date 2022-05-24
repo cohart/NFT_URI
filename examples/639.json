@@ -1,0 +1,71 @@
+{
+    "id": "639",
+    "name": "CryptoPochi #639",
+    "tokenHash": "0xd17c6aba862498539521873068c0ee3676c0becfbdee1dae984f150e2d68453c",
+    "description": "CryptoPochi is an interactive NFT project that captures your daily life emotions and shapes. They laugh, cry, being lazy all the times.\n\n[Interactive](https://pochi.club/asset/?tokenId=639&tokenHash=0xd17c6aba862498539521873068c0ee3676c0becfbdee1dae984f150e2d68453c)\n\n[Pre-rendered](https://pochi.nyc3.digitaloceanspaces.com/mainnet/0xd17c6aba862498539521873068c0ee3676c0becfbdee1dae984f150e2d68453c.gif)\n\nWebsite: [https://pochi.club](https://pochi.club)\n\nTwitter: [@CryptoPochi](https://twitter.com/CryptoPochi)\n\nLicense: [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)\n\n\n\ntokenHash: 0xd17c6aba862498539521873068c0ee3676c0becfbdee1dae984f150e2d68453c",
+    "external_url": "https://pochi.club/asset/?tokenId=639&tokenHash=0xd17c6aba862498539521873068c0ee3676c0becfbdee1dae984f150e2d68453c",
+    "image": "https://pochi.nyc3.digitaloceanspaces.com/mainnet/0xd17c6aba862498539521873068c0ee3676c0becfbdee1dae984f150e2d68453c.gif",
+    "animation_url": "https://pochi.club/os/os-action.html?tokenHash=0xd17c6aba862498539521873068c0ee3676c0becfbdee1dae984f150e2d68453c",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Grid"
+      },
+      {
+        "trait_type": "Count",
+        "value": "2"
+      },
+      {
+        "trait_type": "Variation",
+        "value": "2"
+      },
+      {
+        "trait_type": "Hamily",
+        "value": "False"
+      },
+      {
+        "trait_type": "P0_emotion",
+        "value": "Naughty"
+      },
+      {
+        "trait_type": "P0_hairStyle",
+        "value": "Unicorn"
+      },
+      {
+        "trait_type": "P0_eyeAddOn",
+        "value": "None"
+      },
+      {
+        "trait_type": "P0_accessory",
+        "value": "Arrow"
+      },
+      {
+        "trait_type": "P0_species",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "P1_emotion",
+        "value": "Sad"
+      },
+      {
+        "trait_type": "P1_hairStyle",
+        "value": "Ear"
+      },
+      {
+        "trait_type": "P1_eyeAddOn",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "P1_accessory",
+        "value": "Earing"
+      },
+      {
+        "trait_type": "P1_species",
+        "value": "Normal"
+      }
+    ]
+  }

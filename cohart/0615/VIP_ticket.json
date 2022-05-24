@@ -1,0 +1,31 @@
+{
+  "description": "VIP Ticket at Cohart's Event",
+  "external_url": "https://cohart.co",
+  "image": "",
+  "name": "VIP Ticket at Cohart's Event",
+  "attributes": [
+    {
+      "trait_type": "Ticket Type",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Permission",
+      "value": "Buy NFT"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Release Date",
+      "value": 1650416400
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Event Date",
+      "value": 1650934800
+    },
+    {
+      "trait_type": "Power Level",
+      "value": 100,
+      "max_value": 100
+    }
+  ]
+}
