@@ -1,0 +1,42 @@
+{
+  "name": "Cohart VIP Ticket",
+  "description": "#Cohart Beta Soft Launch\nThis token is a VIP ticket for As Far As We Can See – a Cohart beta soft launch party showcasing digital artists. We will have a DJ, free drinks, exhibition tour and artist talk, merch, and special edition prints. All attendees receive free door gifts. \n\nTime: June 17-19, 2022. \n\nLocation: 1306 Abbot Kinney Blvd, Venice, CA, USA\n\nPowered by: Tokenframe",
+  "external_url": "https://cohart.co",
+  "image": "https://easonc13.github.io/NFT_URI/cohart/0615/img/VIP_ticket.png",
+  "attributes": [
+    {
+      "trait_type": "Ticket Type",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Troy Workman & Cohart"
+    },
+    {
+      "trait_type": "Series",
+      "value": "2022"
+    },
+    {
+      "trait_type": "AFAWCS Dates",
+      "value": "June 17-19, 2022"
+    },
+    {
+      "trait_type": "AFAWCS Location",
+      "value": "1306 Abbot Kinney Blvd, Venice, CA, USA"
+    },
+    {
+      "trait_type": "Powered by",
+      "value": "Tokenframe"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "1. Event Start Date",
+      "value": 1655427600
+    },
+    {
+      "display_type": "date",
+      "trait_type": "2. Event End Date",
+      "value": 1655600400
+    }
+  ]
+}
