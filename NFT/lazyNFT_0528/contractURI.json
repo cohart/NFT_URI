@@ -1,7 +1,7 @@
 {
     "name": "Cohart NFT",
     "description": "#Description\nThis is Cohart's NFT collection!",
-    "image": "https://raw.githubusercontent.com/TestDataTest98765432123456789/URIS/main/imgs/cat.png",
+    "image": "https://nft.cohart.co/NFT/lazyNFT_0528/cohart_logo.png",
     "external_link": "https://www.cohart.co",
     "seller_fee_basis_points": "1000",
     "fee_recipient": "0xE0575C9358532fe9B3764262dB5550C2f0fd5916"
