@@ -1,0 +1,8 @@
+{
+  "name": "Art Yearbook",
+  "description": "The Art Yearbook includes 8,000 unique collectible art world portraits with proof of ownership stored on the Ethereum blockchain.\n\nInspired by real people who have or will make their mark on the art world, the Yearbook commemorates the art community of the past, present, and future. Like humans, no two are exactly alike, and each portrait can be officially owned by a single person on the Ethereum blockchain.",
+  "image": "https://nft.cohart.co/NFT/ArtYearbook8000/image.jpeg",
+  "external_link": "https://cohart.co/artyearbook",
+  "seller_fee_basis_points": "1000",
+  "fee_recipient": "0x79829aC7F84EF64E3F058799e79490ce6EF251c2"
+}
