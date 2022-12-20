@@ -1,0 +1,21 @@
+{
+  "name": "Studio Visit #1",
+  "description": "#Studio Visit with an Artist (Omakase Time)\n\nYou joined an intimate session with the pioneering artist, Rejane Cantoni. It was an “omakase” theme because it was all about establishing personal, intimate connections behind the story of artists.\n\nThis is a limited edition NFT given to you alongside fellow collectors in the room.",
+  "external_url": "https://cohart.co",
+  "image": "https://nft.cohart.co/events/0617/img/Postcard_Rejane.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Rejane Cantoni"
+    },
+    {
+      "trait_type": "Studio Visit",
+      "value": "No.1"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Date",
+      "value": 1671508800
+    }
+  ]
+}
